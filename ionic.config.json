@@ -1,0 +1,7 @@
+{
+  "name": "Simp Game",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
